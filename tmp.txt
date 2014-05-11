@@ -1,2 +1,2 @@
-testing branch
-checking stashing
+stash 2
+stash 1
